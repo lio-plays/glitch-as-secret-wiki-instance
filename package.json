@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "glitch-as-secret-wiki": "git+https://github.com/lio-plays/glitch-as-secret-wiki.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
