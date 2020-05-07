@@ -1,21 +1,10 @@
-# glitch-wiki
+# glitch-as-secret-wiki-instance
 
-## A wiki which you edit in glitch
+## Notes to myself
 
-A primitive wiki which uses glitch for editing. pages have a link which opens the matching glitch file
+i want to use this as a tempate for fresh projects.
+it imports a package of mine for a basic server, [lio-plays/glitch-as-secret-wiki](https://github.com/lio-plays/glitch-as-secret-wiki).
 
-## Features: 
-* go from a glitch hosted page to the sourcefile in glitch, edit there
-* do this also for markdown files
-* no own login setup required
-* do markdown clientside
+Remember to set something in .env/SECRET, which is used as password and cookie-secret, or it will fail.
 
-## View Source
-
-Github -> Glitch: [Remix github/lio-plays/glitch-wiki on Glitch](https://glitch.com/edit/#!/import/github/lio-plays/glitch-wiki)
-
-Elsewhere -> Github: view the github repo [lio-plays/glitch-wiki](https://github.com/lio-plays/glitch-wiki)
-
-### Generate GitHub Import Button for own remixes
-
-[Here](https://github-import.glitch.me/)
+[Github-project](https://github.com/lio-plays/glitch-as-secret-wiki-instance), [Dev-glitch](https://glitch.com/~pointy-cute-exception?utm_source=button&utm_medium=button&utm_campaign=glitchButton&utm_content=pointy-cute-exception)
